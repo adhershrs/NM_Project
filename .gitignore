@@ -10,7 +10,7 @@ __pycache__/
 *.tar
 *.gz
 *.ipynb_checkpoints/
-*.txt
+model_threshold.txt
 *.keras
 app_fixed.py
 download_images.py
