@@ -1,0 +1,22 @@
+# Ignore virtual environments
+venv/
+*.pyc
+__pycache__/
+
+# Ignore data/model files if needed
+*.h5
+*.csv
+*.zip
+*.tar
+*.gz
+*.ipynb_checkpoints/
+*.txt
+*.keras
+app_fixed.py
+download_images.py
+evaluate_model.py
+prediction_script.py
+static/
+oil_spill_dataset/
+templates/
+
